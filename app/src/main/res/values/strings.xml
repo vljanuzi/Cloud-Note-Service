@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cloud Based Note Service</string>
+    <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
+    <string name="content">Content:</string>
+    <string name="date">Date:</string>
+
+    <!-- MESSAGES -->
+    <string name="msg_server_error">Server error</string>
+    <string name="msg_note_created">Note added!</string>
+    <string name="msg_note_not_created">Note not created</string>
+    <string name="msg_notes_not_fetched">Note not fetched =(</string>
+    <string name="todayDate">You cannot change the date</string>
+    <string name="msg_note_deleted">Note deleted!</string>
+    <string name="msg_note_not_deleted">Note is not deleted</string>
+    <string name="content_not_inserted">You cannot leave it blank</string>
+</resources>
